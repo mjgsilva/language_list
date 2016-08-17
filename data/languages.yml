@@ -956,7 +956,7 @@
   :iso_639_3: afr
   :iso_639_2b: afr
   :iso_639_2t: afr
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Afro-Seminole Creole
@@ -2759,7 +2759,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Arabic
+- :name: Arábico
   :iso_639_1: ar
   :iso_639_3: ara
   :iso_639_2b: ara
@@ -4956,7 +4956,7 @@
   :iso_639_3: ben
   :iso_639_2b: ben
   :iso_639_2t: ben
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Beami
@@ -6844,7 +6844,7 @@
   :iso_639_3: bod
   :iso_639_2b: tib
   :iso_639_2t: bod
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Mundabli
@@ -8087,7 +8087,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Bulgarian
+- :name: Búlgaro
   :iso_639_1: bg
   :iso_639_3: bul
   :iso_639_2b: bul
@@ -9335,7 +9335,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Catalan
+- :name: Catalão
   :iso_639_1: ca
   :iso_639_3: cat
   :iso_639_2b: cat
@@ -9783,7 +9783,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Czech
+- :name: Checo
   :iso_639_1: cs
   :iso_639_3: ces
   :iso_639_2b: cze
@@ -11676,7 +11676,7 @@
   :iso_639_3: cym
   :iso_639_2b: wel
   :iso_639_2t: cym
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Cuyonon
@@ -11823,7 +11823,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Danish
+- :name: Dinamarquês
   :iso_639_1: da
   :iso_639_3: dan
   :iso_639_2b: dan
@@ -12263,7 +12263,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: German
+- :name: Alemão
   :iso_639_1: de
   :iso_639_3: deu
   :iso_639_2b: ger
@@ -14223,7 +14223,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Modern Greek (1453-)
+- :name: Grego
   :common_name: Greek
   :iso_639_1: el
   :iso_639_3: ell
@@ -14432,7 +14432,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: English
+- :name: Inglês
   :iso_639_1: en
   :iso_639_3: eng
   :iso_639_2b: eng
@@ -14696,7 +14696,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Estonian
+- :name: Estónio
   :iso_639_1: et
   :iso_639_3: est
   :iso_639_2b: est
@@ -14800,7 +14800,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Basque
+- :name: Basco
   :iso_639_1: eu
   :iso_639_3: eus
   :iso_639_2b: baq
@@ -15000,7 +15000,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Persian
+- :name: Persa
   :iso_639_1: fa
   :iso_639_3: fas
   :iso_639_2b: per
@@ -15117,7 +15117,7 @@
   :iso_639_3: fij
   :iso_639_2b: fij
   :iso_639_2t: fij
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Filipino
@@ -15128,7 +15128,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Finnish
+- :name: Finlandês
   :iso_639_1: fi
   :iso_639_3: fin
   :iso_639_2b: fin
@@ -15328,7 +15328,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: French
+- :name: Francês
   :iso_639_1: fr
   :iso_639_3: fra
   :iso_639_2b: fre
@@ -16784,7 +16784,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Irish
+- :name: Irlandês
   :iso_639_1: ga
   :iso_639_3: gle
   :iso_639_2b: gle
@@ -17701,7 +17701,7 @@
   :iso_639_3: guj
   :iso_639_2b: guj
   :iso_639_2t: guj
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Gumuz
@@ -18480,7 +18480,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Hebrew
+- :name: Hebreu
   :iso_639_1: he
   :iso_639_3: heb
   :iso_639_2b: heb
@@ -19304,7 +19304,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Croatian
+- :name: Croata
   :iso_639_1: hr
   :iso_639_3: hrv
   :iso_639_2b: hrv
@@ -19504,7 +19504,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Hungarian
+- :name: Hungaro
   :iso_639_1: hu
   :iso_639_3: hun
   :iso_639_2b: hun
@@ -19680,7 +19680,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Armenian
+- :name: Arménio
   :iso_639_1: hy
   :iso_639_3: hye
   :iso_639_2b: arm
@@ -20432,7 +20432,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Indonesian
+- :name: Indonésio
   :iso_639_1: id
   :iso_639_3: ind
   :iso_639_2b: ind
@@ -20720,7 +20720,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Icelandic
+- :name: Islandês
   :iso_639_1: is
   :iso_639_3: isl
   :iso_639_2b: ice
@@ -20776,7 +20776,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Italian
+- :name: Italiano
   :iso_639_1: it
   :iso_639_3: ita
   :iso_639_2b: ita
@@ -21760,7 +21760,7 @@
   :common: false
   :type: :historical
   :scope: :individual
-- :name: Japanese
+- :name: Japonês
   :iso_639_1: ja
   :iso_639_3: jpn
   :iso_639_2b: jpn
@@ -22165,7 +22165,7 @@
   :iso_639_3: kat
   :iso_639_2b: geo
   :iso_639_2t: kat
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Kanuri
@@ -23525,7 +23525,7 @@
   :iso_639_3: khm
   :iso_639_2b: khm
   :iso_639_2t: khm
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Khandesi
@@ -24984,7 +24984,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Korean
+- :name: Coreano
   :iso_639_1: ko
   :iso_639_3: kor
   :iso_639_2b: kor
@@ -27464,7 +27464,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Latin
+- :name: Latim
   :iso_639_1: la
   :iso_639_3: lat
   :iso_639_2b: lat
@@ -27480,7 +27480,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Latvian
+- :name: Letão
   :iso_639_1: lv
   :iso_639_3: lav
   :iso_639_2b: lav
@@ -28456,7 +28456,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Lithuanian
+- :name: Lituano
   :iso_639_1: lt
   :iso_639_3: lit
   :iso_639_2b: lit
@@ -30085,7 +30085,7 @@
   :iso_639_3: mal
   :iso_639_2b: mal
   :iso_639_2t: mal
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Mam
@@ -30117,7 +30117,7 @@
   :iso_639_3: mar
   :iso_639_2b: mar
   :iso_639_2t: mar
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Masai
@@ -32013,7 +32013,7 @@
   :iso_639_3: mkd
   :iso_639_2b: mac
   :iso_639_2t: mkd
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Mawchi
@@ -32341,7 +32341,7 @@
   :iso_639_3: mlt
   :iso_639_2b: mlt
   :iso_639_2t: mlt
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: To'abaita
@@ -32864,7 +32864,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Mongolian
+- :name: Mongol
   :iso_639_1: mn
   :iso_639_3: mon
   :iso_639_2b: mon
@@ -33437,7 +33437,7 @@
   :iso_639_3: mri
   :iso_639_2b: mao
   :iso_639_2t: mri
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Western Mari
@@ -33581,7 +33581,7 @@
   :iso_639_3: msa
   :iso_639_2b: may
   :iso_639_2t: msa
-  :common: true
+  :common: false
   :type: :living
   :scope: :macro_language
 - :name: Masbatenyo
@@ -36040,7 +36040,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Nepali
+- :name: Nepalês
   :iso_639_1: ne
   :iso_639_3: nep
   :iso_639_2b: nep
@@ -37072,7 +37072,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Dutch
+- :name: Holandês
   :iso_639_1: nl
   :iso_639_3: nld
   :iso_639_2b: dut
@@ -37728,7 +37728,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Norwegian
+- :name: Norueguês
   :iso_639_1: 'no'
   :iso_639_3: nor
   :iso_639_2b: nor
@@ -40381,7 +40381,7 @@
   :iso_639_3: pan
   :iso_639_2b: pan
   :iso_639_2t: pan
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Northern Paiute
@@ -42080,7 +42080,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Polish
+- :name: Polaco
   :iso_639_1: pl
   :iso_639_3: pol
   :iso_639_2b: pol
@@ -42128,7 +42128,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Portuguese
+- :name: Português
   :iso_639_1: pt
   :iso_639_3: por
   :iso_639_2b: por
@@ -43093,7 +43093,7 @@
   :iso_639_3: que
   :iso_639_2b: que
   :iso_639_2t: que
-  :common: true
+  :common: false
   :type: :living
   :scope: :macro_language
 - :name: Lambayeque Quechua
@@ -44400,7 +44400,7 @@
   :common: false
   :type: :living
   :scope: :macro_language
-- :name: Romanian
+- :name: Romeno
   :iso_639_1: ro
   :iso_639_3: ron
   :iso_639_2b: rum
@@ -44624,7 +44624,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Russian
+- :name: Russo
   :iso_639_1: ru
   :iso_639_3: rus
   :iso_639_2b: rus
@@ -46592,7 +46592,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Slovak
+- :name: Eslovaco
   :iso_639_1: sk
   :iso_639_3: slk
   :iso_639_2b: slo
@@ -46672,7 +46672,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Slovenian
+- :name: Esloveno
   :iso_639_1: sl
   :iso_639_3: slv
   :iso_639_2b: slv
@@ -46821,7 +46821,7 @@
   :iso_639_3: smo
   :iso_639_2b: smo
   :iso_639_2t: smo
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Samaritan
@@ -47304,7 +47304,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Spanish
+- :name: Espanhol
   :iso_639_1: es
   :iso_639_3: spa
   :iso_639_2b: spa
@@ -47472,7 +47472,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Albanian
+- :name: Albanês
   :iso_639_1: sq
   :iso_639_3: sqi
   :iso_639_2b: alb
@@ -47656,7 +47656,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Serbian
+- :name: Sérvio
   :iso_639_1: sr
   :iso_639_3: srp
   :iso_639_2b: srp
@@ -48333,7 +48333,7 @@
   :iso_639_3: swa
   :iso_639_2b: swa
   :iso_639_2t: swa
-  :common: true
+  :common: false
   :type: :living
   :scope: :macro_language
 - :name: Maore Comorian
@@ -48352,7 +48352,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Swedish
+- :name: Sueco
   :iso_639_1: sv
   :iso_639_3: swe
   :iso_639_2b: swe
@@ -48909,7 +48909,7 @@
   :iso_639_3: tam
   :iso_639_2b: tam
   :iso_639_2t: tam
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Tangale
@@ -48965,7 +48965,7 @@
   :iso_639_3: tat
   :iso_639_2b: tat
   :iso_639_2t: tat
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Upper Tanana
@@ -49661,7 +49661,7 @@
   :iso_639_3: tel
   :iso_639_2b: tel
   :iso_639_2t: tel
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Timne
@@ -49997,7 +49997,7 @@
   :iso_639_3: tha
   :iso_639_2b: tha
   :iso_639_2t: tha
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Tai Hang Tong
@@ -51245,7 +51245,7 @@
   :iso_639_3: ton
   :iso_639_2b: ton
   :iso_639_2t: ton
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Xicotepec De Juárez Totonac
@@ -52336,7 +52336,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Turkish
+- :name: Turco
   :iso_639_1: tr
   :iso_639_3: tur
   :iso_639_2b: tur
@@ -53264,7 +53264,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Ukrainian
+- :name: Ucraniano
   :iso_639_1: uk
   :iso_639_3: ukr
   :iso_639_2b: ukr
@@ -53621,7 +53621,7 @@
   :iso_639_3: urd
   :iso_639_2b: urd
   :iso_639_2t: urd
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Uru
@@ -53941,7 +53941,7 @@
   :iso_639_3: uzb
   :iso_639_2b: uzb
   :iso_639_2t: uzb
-  :common: true
+  :common: false
   :type: :living
   :scope: :macro_language
 - :name: Northern Uzbek
@@ -54208,7 +54208,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Vietnamese
+- :name: Vietnamita
   :iso_639_1: vi
   :iso_639_3: vie
   :iso_639_2b: vie
@@ -56917,7 +56917,7 @@
   :iso_639_3: xho
   :iso_639_2b: xho
   :iso_639_2t: xho
-  :common: true
+  :common: false
   :type: :living
   :scope: :individual
 - :name: Hernican
@@ -60608,7 +60608,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Chinese
+- :name: Mandarino
   :iso_639_1: zh
   :iso_639_3: zho
   :iso_639_2b: chi
