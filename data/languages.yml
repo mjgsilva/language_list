@@ -7,6 +7,14 @@
   :common: false
   :type: :living
   :scope: :individual
+- :name: Português
+  :iso_639_1: pt
+  :iso_639_3: por
+  :iso_639_2b: por
+  :iso_639_2t: por
+  :common: true
+  :type: :living
+  :scope: :individual
 - :name: Alumu-Tesu
   :iso_639_1: 
   :iso_639_3: aab
@@ -42126,14 +42134,6 @@
   :iso_639_2b: 
   :iso_639_2t: 
   :common: false
-  :type: :living
-  :scope: :individual
-- :name: Português
-  :iso_639_1: pt
-  :iso_639_3: por
-  :iso_639_2b: por
-  :iso_639_2t: por
-  :common: true
   :type: :living
   :scope: :individual
 - :name: Sayula Popoluca
